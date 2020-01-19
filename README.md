@@ -1,5 +1,7 @@
 ## Ukrainian keyboard layout for Mac OS X
 
+![](kb_ukrainian_unicode.png?raw=true)
+
 ### Installation
 
 1. Copy files \*.keylayout та \*.icns from directory `Ukrainian Unicode` to `~/Library/Keyboard Layouts`
