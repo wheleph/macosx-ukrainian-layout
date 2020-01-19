@@ -2,7 +2,7 @@
 
 ### Installation
 
-1. Copy directory `Ukrainian Unicode` to `~/Library/Keyboard Layouts`
+1. Copy files \*.keylayout та \*.icns from directory `Ukrainian Unicode` to `~/Library/Keyboard Layouts`
 2. Log out / log in
 3. Select "Ukrainian Unicode" layout in OS X System preferences
 
