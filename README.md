@@ -1,5 +1,12 @@
 ## Ukrainian keyboard layout for Mac OS X
 
+**UPD**: as of macOS Sonoma (14.5) this layout is no longer required since the bundled layout "Ukrainian" has been fixed.
+Just make sure you don't use "Ukrainian – Legacy" :)
+
+Features:
+- Proper placement of "і" and "и"
+- Proper placement of punctuation marks
+
 ![](kb_ukrainian_unicode.png?raw=true)
 
 ### Installation
